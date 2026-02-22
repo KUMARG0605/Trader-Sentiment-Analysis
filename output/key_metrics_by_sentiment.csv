@@ -1,0 +1,4 @@
+sentiment_binary,avg_daily_pnl,avg_daily_trades,avg_trade_size,avg_win_rate,avg_volume,avg_ls_ratio,count_days
+Fear,39012.05,792.73,6199.96,84.51,5693419.54,3.67,105
+Greed,15847.88,294.12,5872.03,84.19,1345432.11,1.98,307
+Neutral,19297.32,562.48,7157.53,79.38,2690180.05,2.31,67
